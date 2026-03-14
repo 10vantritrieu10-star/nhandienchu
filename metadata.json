@@ -1,0 +1,5 @@
+{
+  "name": "Trình Nhận Diện Chữ Viết Tay Tiếng Việt",
+  "description": "Ứng dụng nhận diện và chuyển đổi chữ viết tay tiếng Việt từ hình ảnh sang văn bản sử dụng Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
